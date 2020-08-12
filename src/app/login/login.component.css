@@ -1,0 +1,25 @@
+.container{
+    background-position: absolute;
+    min-height: 100%;
+    max-width:100%;
+    margin: -10px ;
+    height: auto;
+    position: fixed;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.login{
+    align-items: center;
+    font-display: center;
+    position: fixed;
+  bottom: 250px;
+  right: 500px;
+  left: 500px;
+  top: 200px;
+  background-size:cover;
+  background-color: opaque;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}

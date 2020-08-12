@@ -1,0 +1,40 @@
+.container{
+        background-position: absolute;
+        min-height: 100%;
+        max-width:100%;
+        margin: -10px ;
+        height: auto;
+        position: fixed;
+        position: fixed;
+        top: 0;
+        left: 0;
+}
+.account{
+  position: absolute;
+  top:30%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color:white;
+  font-weight: 600;
+  font-size: 20px;
+}
+.letters{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: 900;
+  font-size: 50px;
+}
+.register_form{
+    position: absolute;
+  bottom: 500px;
+  right: -100px;
+  left: 950px;
+  top: 30px;
+  background-color: opaque;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
